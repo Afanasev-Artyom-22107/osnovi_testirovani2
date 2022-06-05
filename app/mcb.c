@@ -1,7 +1,7 @@
 /**
  * move.c -- реализует перемещение курсора по файлу
  *
- * Copyright (c) 2022, Yaroslav 'YarSlv3' Reikenen <reikenen1234@gmail.com>
+ * Copyright (c) 2022, Afanasev Artem
  *
  * This code is licensed under a MIT-style license.
  */
